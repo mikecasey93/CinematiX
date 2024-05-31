@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020668159893",
+    "project_id": "cinematix-2087b",
+    "storage_bucket": "cinematix-2087b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020668159893:android:fa7f6362ba63ea2cb5b89c",
+        "android_client_info": {
+          "package_name": "com.kryptopass.cinematix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJGHHKyQLAqYRp2y7_HMCbqcFcsYppQlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
